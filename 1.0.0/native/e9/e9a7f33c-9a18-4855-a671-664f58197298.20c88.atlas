@@ -1,0 +1,62 @@
+
+bg.png
+size: 1779,1046
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+9ec25da2-e72f-4dff-9651-2fde8cec8cfc.e69f9_unpack/ambient_vfx_a_screen
+  rotate: false
+  xy: 2, 342
+  size: 324, 702
+  orig: 324, 702
+  offset: 0, 0
+  index: -1
+9ec25da2-e72f-4dff-9651-2fde8cec8cfc.e69f9_unpack/fs_vfx_d_screen
+  rotate: false
+  xy: 1412, 496
+  size: 365, 548
+  orig: 365, 548
+  offset: 0, 0
+  index: -1
+b397b960-f8d6-44ac-82a1-71baaa304999.3d531_unpack/main_grass_01
+  rotate: true
+  xy: 1412, 29
+  size: 465, 322
+  orig: 467, 325
+  offset: 1, 2
+  index: -1
+b397b960-f8d6-44ac-82a1-71baaa304999.3d531_unpack/main_grass_02
+  rotate: true
+  xy: 2, 2
+  size: 338, 350
+  orig: 339, 353
+  offset: 1, 2
+  index: -1
+b397b960-f8d6-44ac-82a1-71baaa304999.3d531_unpack/main_grass_03
+  rotate: false
+  xy: 354, 18
+  size: 534, 374
+  orig: 539, 376
+  offset: 4, 1
+  index: -1
+b397b960-f8d6-44ac-82a1-71baaa304999.3d531_unpack/main_grass_04
+  rotate: false
+  xy: 890, 22
+  size: 493, 402
+  orig: 495, 403
+  offset: 0, 0
+  index: -1
+bg11
+  rotate: false
+  xy: 328, 394
+  size: 540, 650
+  orig: 540, 650
+  offset: 0, 0
+  index: -1
+bg22
+  rotate: false
+  xy: 870, 426
+  size: 540, 618
+  orig: 540, 618
+  offset: 0, 0
+  index: -1

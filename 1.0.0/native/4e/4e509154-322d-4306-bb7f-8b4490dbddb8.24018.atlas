@@ -1,0 +1,153 @@
+
+hobao_rool.png
+size: 1890,631
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boom/wh_vfx_c_screen_00
+  rotate: false
+  xy: 819, 311
+  size: 3, 3
+  orig: 224, 224
+  offset: 0, 221
+  index: -1
+boom/wh_vfx_c_screen_01
+  rotate: false
+  xy: 394, 139
+  size: 44, 38
+  orig: 224, 224
+  offset: 93, 89
+  index: -1
+boom/wh_vfx_c_screen_02
+  rotate: false
+  xy: 1760, 287
+  size: 128, 130
+  orig: 224, 224
+  offset: 48, 48
+  index: -1
+boom/wh_vfx_c_screen_03
+  rotate: true
+  xy: 1290, 15
+  size: 178, 176
+  orig: 224, 224
+  offset: 21, 25
+  index: -1
+boom/wh_vfx_c_screen_04
+  rotate: true
+  xy: 1096, 3
+  size: 190, 192
+  orig: 224, 224
+  offset: 16, 17
+  index: -1
+boom/wh_vfx_c_screen_05
+  rotate: false
+  xy: 1468, 5
+  size: 198, 198
+  orig: 224, 224
+  offset: 13, 11
+  index: -1
+boom/wh_vfx_c_screen_06
+  rotate: true
+  xy: 1668, 9
+  size: 202, 198
+  orig: 224, 224
+  offset: 9, 11
+  index: -1
+boom/wh_vfx_c_screen_07
+  rotate: false
+  xy: 1554, 213
+  size: 204, 204
+  orig: 224, 224
+  offset: 7, 9
+  index: -1
+boom/wh_vfx_c_screen_08
+  rotate: false
+  xy: 680, 54
+  size: 204, 210
+  orig: 224, 224
+  offset: 9, 7
+  index: -1
+boom/wh_vfx_c_screen_09
+  rotate: false
+  xy: 886, 94
+  size: 208, 220
+  orig: 224, 224
+  offset: 9, 2
+  index: -1
+boom/wh_vfx_c_screen_10
+  rotate: false
+  xy: 1134, 407
+  size: 212, 222
+  orig: 224, 224
+  offset: 7, 1
+  index: -1
+boom/wh_vfx_c_screen_11
+  rotate: true
+  xy: 454, 56
+  size: 208, 224
+  orig: 224, 224
+  offset: 15, 0
+  index: -1
+boom/wh_vfx_c_screen_12
+  rotate: true
+  xy: 1348, 419
+  size: 210, 224
+  orig: 224, 224
+  offset: 14, 0
+  index: -1
+boom/wh_vfx_c_screen_13
+  rotate: true
+  xy: 1134, 195
+  size: 210, 216
+  orig: 224, 224
+  offset: 14, 0
+  index: -1
+boom/wh_vfx_c_screen_14
+  rotate: true
+  xy: 1574, 419
+  size: 210, 224
+  orig: 224, 224
+  offset: 12, 0
+  index: -1
+boom/wh_vfx_c_screen_15
+  rotate: false
+  xy: 1352, 205
+  size: 200, 212
+  orig: 224, 224
+  offset: 18, 0
+  index: -1
+boom/wh_vfx_c_screen_16
+  rotate: true
+  xy: 202, 5
+  size: 172, 190
+  orig: 224, 224
+  offset: 24, 0
+  index: -1
+bw_vfx_i_screen
+  rotate: false
+  xy: 454, 266
+  size: 363, 363
+  orig: 363, 363
+  offset: 0, 0
+  index: -1
+gold
+  rotate: true
+  xy: 2, 2
+  size: 175, 198
+  orig: 175, 198
+  offset: 0, 0
+  index: -1
+gt_vfx_b_screen
+  rotate: false
+  xy: 819, 316
+  size: 313, 313
+  orig: 313, 313
+  offset: 0, 0
+  index: -1
+gt_vfx_h_screen
+  rotate: false
+  xy: 2, 179
+  size: 450, 450
+  orig: 450, 450
+  offset: 0, 0
+  index: -1

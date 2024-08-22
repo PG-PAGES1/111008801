@@ -1,0 +1,361 @@
+
+free_jiesuan.png
+size: 1951,1989
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+coin
+  rotate: false
+  xy: 1028, 773
+  size: 599, 1214
+  orig: 602, 1214
+  offset: 0, 0
+  index: -1
+gt_vfx_o_screen_01
+  rotate: true
+  xy: 1629, 1557
+  size: 430, 320
+  orig: 430, 320
+  offset: 0, 0
+  index: -1
+line
+  rotate: true
+  xy: 948, 196
+  size: 575, 684
+  orig: 575, 684
+  offset: 0, 0
+  index: -1
+qt
+  rotate: false
+  xy: 2, 335
+  size: 944, 752
+  orig: 944, 752
+  offset: 0, 0
+  index: -1
+shu
+  rotate: false
+  xy: 2, 1089
+  size: 1024, 898
+  orig: 1078, 898
+  offset: 31, 0
+  index: -1
+spark
+  rotate: false
+  xy: 2, 124
+  size: 594, 209
+  orig: 594, 209
+  offset: 0, 0
+  index: -1
+yanhua/bw_vfx_g_screen_07
+  rotate: false
+  xy: 1634, 175
+  size: 282, 318
+  orig: 282, 392
+  offset: 0, 56
+  index: -1
+yanhua/bw_vfx_g_screen_09
+  rotate: false
+  xy: 1318, 24
+  size: 180, 170
+  orig: 282, 392
+  offset: 56, 133
+  index: -1
+yanhua/bw_vfx_g_screen_10
+  rotate: false
+  xy: 1500, 23
+  size: 166, 150
+  orig: 282, 392
+  offset: 70, 141
+  index: -1
+yanhua/bw_vfx_g_screen_11
+  rotate: false
+  xy: 1138, 20
+  size: 178, 174
+  orig: 282, 392
+  offset: 58, 130
+  index: -1
+yanhua/bw_vfx_g_screen_12
+  rotate: false
+  xy: 944, 2
+  size: 192, 192
+  orig: 282, 392
+  offset: 44, 122
+  index: -1
+yanhua/bw_vfx_g_screen_24
+  rotate: true
+  xy: 598, 51
+  size: 282, 344
+  orig: 282, 392
+  offset: 0, 29
+  index: -1
+yanhua/bw_vfx_g_screen_25
+  rotate: false
+  xy: 1629, 1203
+  size: 282, 352
+  orig: 282, 392
+  offset: 0, 21
+  index: -1
+yanhua/bw_vfx_g_screen_26
+  rotate: false
+  xy: 1629, 849
+  size: 282, 352
+  orig: 282, 392
+  offset: 0, 21
+  index: -1
+yanhua/bw_vfx_g_screen_27
+  rotate: false
+  xy: 1634, 495
+  size: 282, 352
+  orig: 282, 392
+  offset: 0, 20
+  index: -1
+
+free_jiesuan2.png
+size: 1998,1895
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a8287a0a-88fe-49fb-aacc-f8a3cf291ab8.2194a_unpack/line
+  rotate: false
+  xy: 2, 81
+  size: 517, 640
+  orig: 517, 640
+  offset: 0, 0
+  index: -1
+a8287a0a-88fe-49fb-aacc-f8a3cf291ab8.2194a_unpack/tw_vfx_d_add
+  rotate: true
+  xy: 1075, 1494
+  size: 399, 515
+  orig: 399, 515
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 2, 723
+  size: 540, 1170
+  orig: 540, 1170
+  offset: 0, 0
+  index: -1
+boom
+  rotate: false
+  xy: 544, 910
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+boom_spark
+  rotate: false
+  xy: 544, 1412
+  size: 529, 481
+  orig: 529, 481
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 1592, 1513
+  size: 380, 380
+  orig: 380, 380
+  offset: 0, 0
+  index: -1
+yanhua/bw_vfx_g_screen_00
+  rotate: true
+  xy: 521, 32
+  size: 238, 284
+  orig: 282, 392
+  offset: 18, 41
+  index: -1
+yanhua/bw_vfx_g_screen_01
+  rotate: true
+  xy: 807, 20
+  size: 250, 286
+  orig: 282, 392
+  offset: 18, 42
+  index: -1
+yanhua/bw_vfx_g_screen_02
+  rotate: true
+  xy: 1095, 14
+  size: 256, 294
+  orig: 282, 392
+  offset: 12, 42
+  index: -1
+yanhua/bw_vfx_g_screen_03
+  rotate: false
+  xy: 1218, 628
+  size: 258, 296
+  orig: 282, 392
+  offset: 11, 50
+  index: -1
+yanhua/bw_vfx_g_screen_04
+  rotate: true
+  xy: 1391, 10
+  size: 262, 292
+  orig: 282, 392
+  offset: 10, 54
+  index: -1
+yanhua/bw_vfx_g_screen_05
+  rotate: false
+  xy: 1429, 1206
+  size: 268, 286
+  orig: 282, 392
+  offset: 7, 65
+  index: -1
+yanhua/bw_vfx_g_screen_06
+  rotate: true
+  xy: 1712, 933
+  size: 274, 284
+  orig: 282, 392
+  offset: 5, 67
+  index: -1
+yanhua/bw_vfx_g_screen_08
+  rotate: true
+  xy: 898, 626
+  size: 282, 318
+  orig: 282, 392
+  offset: 0, 56
+  index: -1
+yanhua/bw_vfx_g_screen_15
+  rotate: false
+  xy: 1748, 679
+  size: 246, 252
+  orig: 282, 392
+  offset: 9, 94
+  index: -1
+yanhua/bw_vfx_g_screen_16
+  rotate: false
+  xy: 1685, 2
+  size: 254, 270
+  orig: 282, 392
+  offset: 9, 82
+  index: -1
+yanhua/bw_vfx_g_screen_18
+  rotate: false
+  xy: 1478, 628
+  size: 268, 296
+  orig: 282, 392
+  offset: 2, 65
+  index: -1
+yanhua/bw_vfx_g_screen_19
+  rotate: false
+  xy: 1699, 1209
+  size: 274, 302
+  orig: 282, 392
+  offset: 0, 62
+  index: -1
+yanhua/bw_vfx_g_screen_20
+  rotate: true
+  xy: 1400, 926
+  size: 278, 310
+  orig: 282, 392
+  offset: 0, 55
+  index: -1
+yanhua/bw_vfx_g_screen_28
+  rotate: true
+  xy: 544, 626
+  size: 282, 352
+  orig: 282, 392
+  offset: 0, 20
+  index: -1
+yanhua/bw_vfx_g_screen_29
+  rotate: false
+  xy: 521, 272
+  size: 282, 352
+  orig: 282, 392
+  offset: 0, 20
+  index: -1
+yanhua/bw_vfx_g_screen_30
+  rotate: false
+  xy: 805, 272
+  size: 282, 352
+  orig: 282, 392
+  offset: 0, 20
+  index: -1
+yanhua/bw_vfx_g_screen_31
+  rotate: false
+  xy: 1089, 272
+  size: 282, 352
+  orig: 282, 392
+  offset: 0, 20
+  index: -1
+yanhua/bw_vfx_g_screen_32
+  rotate: true
+  xy: 1075, 1210
+  size: 282, 352
+  orig: 282, 392
+  offset: 0, 20
+  index: -1
+yanhua/bw_vfx_g_screen_33
+  rotate: true
+  xy: 1046, 926
+  size: 282, 352
+  orig: 282, 392
+  offset: 0, 20
+  index: -1
+yanhua/bw_vfx_g_screen_34
+  rotate: false
+  xy: 1373, 274
+  size: 282, 352
+  orig: 282, 392
+  offset: 0, 20
+  index: -1
+yanhua/bw_vfx_g_screen_35
+  rotate: false
+  xy: 1657, 274
+  size: 282, 352
+  orig: 282, 392
+  offset: 0, 20
+  index: -1
+
+free_jiesuan3.png
+size: 1046,566
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yanhua/bw_vfx_g_screen_13
+  rotate: false
+  xy: 840, 26
+  size: 204, 218
+  orig: 282, 392
+  offset: 37, 110
+  index: -1
+yanhua/bw_vfx_g_screen_14
+  rotate: true
+  xy: 612, 30
+  size: 214, 226
+  orig: 282, 392
+  offset: 32, 107
+  index: -1
+yanhua/bw_vfx_g_screen_17
+  rotate: false
+  xy: 354, 2
+  size: 256, 278
+  orig: 282, 392
+  offset: 9, 77
+  index: -1
+yanhua/bw_vfx_g_screen_21
+  rotate: false
+  xy: 670, 246
+  size: 282, 318
+  orig: 282, 392
+  offset: 0, 48
+  index: -1
+yanhua/bw_vfx_g_screen_22
+  rotate: true
+  xy: 338, 282
+  size: 282, 330
+  orig: 282, 392
+  offset: 0, 42
+  index: -1
+yanhua/bw_vfx_g_screen_23
+  rotate: true
+  xy: 2, 282
+  size: 282, 334
+  orig: 282, 392
+  offset: 0, 37
+  index: -1
+yanhua/bw_vfx_g_screen_36
+  rotate: true
+  xy: 2, 4
+  size: 276, 350
+  orig: 282, 392
+  offset: 0, 20
+  index: -1

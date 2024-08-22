@@ -1,0 +1,538 @@
+
+ui_tree.png
+size: 2048,874
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 2, 550
+  size: 389, 322
+  orig: 389, 322
+  offset: 0, 0
+  index: -1
+01a
+  rotate: false
+  xy: 500, 75
+  size: 316, 231
+  orig: 316, 231
+  offset: 0, 0
+  index: -1
+01b
+  rotate: 180
+  xy: 1036, 293
+  size: 325, 255
+  orig: 325, 255
+  offset: 0, 0
+  index: -1
+02
+  rotate: false
+  xy: 1174, 550
+  size: 387, 322
+  orig: 387, 322
+  offset: 0, 0
+  index: -1
+02a
+  rotate: false
+  xy: 818, 75
+  size: 316, 231
+  orig: 316, 231
+  offset: 0, 0
+  index: -1
+02b
+  rotate: 180
+  xy: 1363, 292
+  size: 324, 255
+  orig: 324, 255
+  offset: 0, 0
+  index: -1
+03
+  rotate: false
+  xy: 784, 550
+  size: 388, 322
+  orig: 388, 322
+  offset: 0, 0
+  index: -1
+03a
+  rotate: false
+  xy: 2, 74
+  size: 316, 231
+  orig: 316, 231
+  offset: 0, 0
+  index: -1
+03b
+  rotate: 180
+  xy: 1689, 292
+  size: 324, 255
+  orig: 324, 255
+  offset: 0, 0
+  index: -1
+04
+  rotate: false
+  xy: 393, 550
+  size: 389, 322
+  orig: 389, 322
+  offset: 0, 0
+  index: -1
+04a
+  rotate: false
+  xy: 1136, 60
+  size: 316, 231
+  orig: 316, 231
+  offset: 0, 0
+  index: -1
+04b
+  rotate: true
+  xy: 1562, 548
+  size: 325, 255
+  orig: 325, 255
+  offset: 0, 0
+  index: -1
+apow_gold_01_leaves
+  rotate: false
+  xy: 320, 238
+  size: 131, 133
+  orig: 131, 133
+  offset: 0, 0
+  index: -1
+branch01
+  rotate: false
+  xy: 1658, 219
+  size: 160, 93
+  orig: 160, 93
+  offset: 0, 0
+  index: -1
+branch01_gold
+  rotate: false
+  xy: 1454, 196
+  size: 159, 93
+  orig: 159, 93
+  offset: 0, 0
+  index: -1
+branch02
+  rotate: false
+  xy: 1819, 714
+  size: 162, 158
+  orig: 162, 158
+  offset: 0, 0
+  index: -1
+branch02_gold
+  rotate: false
+  xy: 1805, 555
+  size: 161, 157
+  orig: 161, 157
+  offset: 0, 0
+  index: -1
+bs_f_rev_12
+  rotate: false
+  xy: 1634, 54
+  size: 89, 67
+  orig: 89, 67
+  offset: 0, 0
+  index: -1
+bs_f_rev_13
+  rotate: false
+  xy: 1725, 44
+  size: 89, 67
+  orig: 89, 67
+  offset: 0, 0
+  index: -1
+bs_f_rev_14
+  rotate: false
+  xy: 320, 61
+  size: 89, 68
+  orig: 89, 68
+  offset: 0, 0
+  index: -1
+bs_f_rev_15
+  rotate: false
+  xy: 1544, 53
+  size: 88, 68
+  orig: 88, 68
+  offset: 0, 0
+  index: -1
+bs_f_rev_16
+  rotate: false
+  xy: 1454, 116
+  size: 88, 78
+  orig: 88, 78
+  offset: 0, 0
+  index: -1
+bs_f_rev_17
+  rotate: false
+  xy: 789, 310
+  size: 88, 101
+  orig: 88, 101
+  offset: 0, 0
+  index: -1
+bs_f_rev_18
+  rotate: false
+  xy: 413, 143
+  size: 85, 93
+  orig: 85, 93
+  offset: 0, 0
+  index: -1
+bs_f_rev_19
+  rotate: false
+  xy: 1884, 111
+  size: 82, 84
+  orig: 82, 84
+  offset: 0, 0
+  index: -1
+bs_f_rev_20
+  rotate: false
+  xy: 1968, 128
+  size: 70, 67
+  orig: 70, 67
+  offset: 0, 0
+  index: -1
+bs_f_rev_21
+  rotate: false
+  xy: 1983, 725
+  size: 58, 55
+  orig: 58, 55
+  offset: 0, 0
+  index: -1
+bs_f_rev_22
+  rotate: false
+  xy: 1978, 198
+  size: 49, 42
+  orig: 49, 42
+  offset: 0, 0
+  index: -1
+bs_f_rev_23
+  rotate: false
+  xy: 939, 519
+  size: 50, 29
+  orig: 50, 29
+  offset: 0, 0
+  index: -1
+bs_fx_15
+  rotate: false
+  xy: 1023, 308
+  size: 44, 30
+  orig: 44, 30
+  offset: 0, 0
+  index: -1
+bs_fx_16
+  rotate: false
+  xy: 1992, 79
+  size: 49, 47
+  orig: 49, 47
+  offset: 0, 0
+  index: -1
+bs_fx_17
+  rotate: false
+  xy: 1068, 12
+  size: 66, 61
+  orig: 66, 61
+  offset: 0, 0
+  index: -1
+bs_fx_18
+  rotate: false
+  xy: 1615, 123
+  size: 91, 94
+  orig: 91, 94
+  offset: 0, 0
+  index: -1
+bs_fx_19
+  rotate: false
+  xy: 320, 131
+  size: 91, 105
+  orig: 91, 105
+  offset: 0, 0
+  index: -1
+bs_fx_20
+  rotate: false
+  xy: 228, 308
+  size: 90, 88
+  orig: 90, 88
+  offset: 0, 0
+  index: -1
+bs_fx_21
+  rotate: false
+  xy: 1793, 113
+  size: 89, 82
+  orig: 89, 82
+  offset: 0, 0
+  index: -1
+bs_fx_22
+  rotate: false
+  xy: 760, 476
+  size: 88, 72
+  orig: 88, 72
+  offset: 0, 0
+  index: -1
+bs_fx_23
+  rotate: false
+  xy: 411, 61
+  size: 87, 68
+  orig: 87, 68
+  offset: 0, 0
+  index: -1
+bs_fx_24
+  rotate: false
+  xy: 1454, 47
+  size: 86, 67
+  orig: 86, 67
+  offset: 0, 0
+  index: -1
+bs_fx_25
+  rotate: false
+  xy: 879, 308
+  size: 86, 66
+  orig: 86, 66
+  offset: 0, 0
+  index: -1
+bs_fx_26
+  rotate: false
+  xy: 1816, 43
+  size: 86, 66
+  orig: 86, 66
+  offset: 0, 0
+  index: -1
+bs_fx_27
+  rotate: false
+  xy: 1904, 43
+  size: 86, 66
+  orig: 86, 66
+  offset: 0, 0
+  index: -1
+coins/chinese_coin_01
+  rotate: false
+  xy: 666, 8
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+coins/chinese_coin_05
+  rotate: false
+  xy: 733, 8
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+coins/chinese_coin_09
+  rotate: false
+  xy: 800, 8
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+coins/chinese_coin_13
+  rotate: false
+  xy: 867, 8
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+coins/chinese_coin_17
+  rotate: false
+  xy: 934, 8
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+coins/chinese_coin_21
+  rotate: false
+  xy: 1001, 8
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+l01
+  rotate: true
+  xy: 374, 488
+  size: 60, 91
+  orig: 60, 91
+  offset: 0, 0
+  index: -1
+l01_gold
+  rotate: false
+  xy: 1983, 782
+  size: 60, 91
+  orig: 60, 91
+  offset: 0, 0
+  index: -1
+l02
+  rotate: false
+  xy: 1979, 243
+  size: 67, 93
+  orig: 67, 93
+  offset: 0, 0
+  index: -1
+l02_gold
+  rotate: true
+  xy: 500, 7
+  size: 67, 93
+  orig: 67, 93
+  offset: 0, 0
+  index: -1
+l03
+  rotate: true
+  xy: 230, 13
+  size: 59, 95
+  orig: 59, 95
+  offset: 0, 0
+  index: -1
+l03_gold
+  rotate: false
+  xy: 453, 258
+  size: 36, 57
+  orig: 36, 57
+  offset: 0, 0
+  index: -1
+l04
+  rotate: false
+  xy: 1544, 126
+  size: 62, 69
+  orig: 62, 69
+  offset: 0, 0
+  index: -1
+l04_gold
+  rotate: true
+  xy: 595, 11
+  size: 62, 69
+  orig: 62, 69
+  offset: 0, 0
+  index: -1
+l05
+  rotate: true
+  xy: 2, 11
+  size: 61, 74
+  orig: 61, 74
+  offset: 0, 0
+  index: -1
+l05_gold
+  rotate: true
+  xy: 77, 11
+  size: 61, 74
+  orig: 61, 74
+  offset: 0, 0
+  index: -1
+l06
+  rotate: true
+  xy: 327, 3
+  size: 56, 59
+  orig: 56, 59
+  offset: 0, 0
+  index: -1
+l06_gold
+  rotate: true
+  xy: 387, 3
+  size: 56, 59
+  orig: 56, 59
+  offset: 0, 0
+  index: -1
+l07
+  rotate: false
+  xy: 1979, 8
+  size: 67, 69
+  orig: 67, 69
+  offset: 0, 0
+  index: -1
+l07_gold
+  rotate: 180
+  xy: 720, 327
+  size: 67, 69
+  orig: 67, 69
+  offset: 0, 0
+  index: -1
+s_b_coins0
+  rotate: false
+  xy: 1615, 259
+  size: 38, 30
+  orig: 38, 30
+  offset: 0, 0
+  index: -1
+s_b_flap_closedDingle
+  rotate: false
+  xy: 1772, 550
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+s_b_flap_gold_closedT
+  rotate: false
+  xy: 320, 377
+  size: 64, 22
+  orig: 64, 22
+  offset: 0, 0
+  index: -1
+s_b_flap_gold_closedT_fx
+  rotate: false
+  xy: 1351, 299
+  size: 70, 29
+  orig: 70, 29
+  offset: 0, 0
+  index: -1
+s_b_flap_openT
+  rotate: false
+  xy: 1136, 25
+  size: 60, 33
+  orig: 60, 33
+  offset: 0, 0
+  index: -1
+s_b_flap_openTb
+  rotate: false
+  xy: 153, 25
+  size: 75, 47
+  orig: 75, 47
+  offset: 0, 0
+  index: -1
+s_b_fx_flare
+  rotate: false
+  xy: 1820, 197
+  size: 156, 92
+  orig: 156, 92
+  offset: 0, 0
+  index: -1
+s_b_fx_sparkles
+  rotate: false
+  xy: 243, 476
+  size: 129, 72
+  orig: 129, 72
+  offset: 0, 0
+  index: -1
+s_b_packet_gold_closed
+  rotate: false
+  xy: 1968, 633
+  size: 69, 79
+  orig: 69, 79
+  offset: 0, 0
+  index: -1
+s_b_packet_gold_closed_fx
+  rotate: true
+  xy: 851, 473
+  size: 75, 86
+  orig: 75, 86
+  offset: 0, 0
+  index: -1
+s_b_packet_gold_open
+  rotate: false
+  xy: 1968, 552
+  size: 69, 79
+  orig: 69, 79
+  offset: 0, 0
+  index: -1
+s_b_packet_open copy
+  rotate: false
+  xy: 1708, 124
+  size: 83, 93
+  orig: 83, 93
+  offset: 0, 0
+  index: -1
+trunk
+  rotate: true
+  xy: 2, 307
+  size: 242, 515
+  orig: 242, 515
+  offset: 0, 0
+  index: -1
+trunk_gold
+  rotate: true
+  xy: 519, 308
+  size: 241, 516
+  orig: 241, 516
+  offset: 0, 0
+  index: -1

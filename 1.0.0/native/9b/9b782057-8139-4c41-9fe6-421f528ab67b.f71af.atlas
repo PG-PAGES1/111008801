@@ -1,0 +1,62 @@
+
+free_game.png
+size: 1588,1227
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+35f3e45a-2610-4fe1-8121-9797efc221f6.02ec1_unpack/bl_vfx_b_screen
+  rotate: true
+  xy: 1174, 437
+  size: 788, 412
+  orig: 788, 412
+  offset: 0, 0
+  index: -1
+35f3e45a-2610-4fe1-8121-9797efc221f6.02ec1_unpack/bl_vfx_d_screen
+  rotate: true
+  xy: 823, 244
+  size: 439, 246
+  orig: 439, 246
+  offset: 0, 0
+  index: -1
+bg
+  rotate: true
+  xy: 2, 685
+  size: 540, 1170
+  orig: 540, 1170
+  offset: 0, 0
+  index: -1
+charge_vfx_a_add
+  rotate: false
+  xy: 823, 2
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+eba6a0e9-eb51-4c06-9086-e909467a48b7.4161f_unpack/charge_vfx_a_add
+  rotate: false
+  xy: 823, 2
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+e10b76c3-eee2-444d-9c4b-5d1211089797.4628d_unpack/bl_b
+  rotate: true
+  xy: 2, 42
+  size: 641, 819
+  orig: 677, 820
+  offset: 19, 0
+  index: -1
+ea143935-adb6-4f39-88fe-a0f81948c7fb.0c026_unpack/bl_button_glow_screen
+  rotate: true
+  xy: 1453, 145
+  size: 290, 124
+  orig: 290, 124
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 1071, 55
+  size: 380, 380
+  orig: 380, 380
+  offset: 0, 0
+  index: -1
